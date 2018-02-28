@@ -8,7 +8,7 @@ $ unzip master.zip
 ##### Navigate to Project
 $ cd capacitive-moisture-sensor-enclosure-master
 ##### Open with OpenSCAD
-$ openscad enclosure-female.scad
+$ openscad enclosure-female.scad  
 $ openscad enclosure-male.scad
 
 <p align="center">
